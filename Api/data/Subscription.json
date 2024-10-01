@@ -1,0 +1,28 @@
+{
+  "subscription": [
+    {
+      "subscriptionId": "d1917d28-6724-448a-ad87-b9351811f64f",
+      "subscriptionName": "IBL-Internal-Subscription",
+      "state": 0,
+      "tags": {
+        "scope": "internal"
+      }
+    },
+    {
+      "subscriptionId": "a9c2bc95-2d4c-4262-879f-46306485c197",
+      "subscriptionName": "IBL-TCP-Project-Subscription",
+      "state": 0,
+      "tags": {
+        "project": "TCP"
+      }
+    },
+    {
+      "subscriptionId": "7e9b9375-de64-470b-8e9f-d6c12ee2c12b",
+      "subscriptionName": "IBL-WBE-Project-Subscription",
+      "state": 0,
+      "tags": {
+        "project": "WBE"
+      }
+    }
+  ]
+}
