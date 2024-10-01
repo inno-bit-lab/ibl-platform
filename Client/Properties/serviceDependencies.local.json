@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "identityapp1": {
+      "connectionInfo": "Registrazione app: Innobitlab Login Portal Server, Tenant: Innobitlab s.r.l. (innobitlab.it - Microsoft Entra ID)",
+      "type": "identityapp.default"
+    }
+  }
+}
